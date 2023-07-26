@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("subtask_1");
+        Console.WriteLine("subtask_2");
     }
 }
