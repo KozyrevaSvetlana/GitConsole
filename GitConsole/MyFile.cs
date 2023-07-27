@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitConsole
 {
-    internal class MyFile1
+    internal class MyFile
     {
     }
 }
